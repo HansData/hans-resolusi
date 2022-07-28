@@ -1,6 +1,10 @@
 rencana saya untuk setahun kedepan 
 
--belajar bahasa pemograman (belsjsr js,php,c++,dan c)
--belajar membuat web (web belanja, web portfolio dll)
--melatih skil saya (skil ngoding, dan logika)
--belajar bahasa inggris (belajar grammer dan kosa kata serta pengucapan)
+-belajar bahasa pemograman 
+*(belsjsr js,php, python, c++,dan c)
+-belajar membuat web 
+*(web belanja, web portfolio dll)
+-melatih skil saya 
+*(skil ngoding, dan logika)
+-belajar bahasa inggris 
+*(belajar grammer dan kosa kata serta pengucapan)
